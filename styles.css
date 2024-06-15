@@ -235,6 +235,19 @@ button:hover {
     }
 }
 
+footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    color: #fff;
+    font-size: 0.8em;
+}
+
+#memberName {
+    font-weight: bold;
+}
+
+
 /* Responsive Design */
 @media (max-width: 600px) {
     h1 {
